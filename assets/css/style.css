@@ -734,6 +734,12 @@ section {
   padding-left: 15px;
 }
 
+@media screen and (max-width: 500px) {
+  #program .program-item time {
+    font-size: 1.3rem;
+  }
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
