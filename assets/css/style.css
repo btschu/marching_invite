@@ -711,7 +711,7 @@ section {
 }
 
 #program .program-item h4 {
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 600;
   /* margin: 5px 0; */
   color: #fff;
@@ -737,6 +737,14 @@ section {
 @media screen and (max-width: 500px) {
   #program .program-item time {
     font-size: 1.3rem;
+  }
+
+  #program .program-item h4 {
+    font-size: 1rem;
+  }
+
+  #program .program-item p {
+    font-size: .9rem;
   }
 }
 
