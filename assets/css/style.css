@@ -739,6 +739,10 @@ section {
     font-size: 1.3rem;
   }
 
+  #program .program-item time {
+    width: 33%;
+  }
+
   #program .program-item h4 {
     font-size: 1rem;
   }
